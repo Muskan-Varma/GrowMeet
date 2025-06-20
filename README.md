@@ -5,7 +5,7 @@
 Open your terminal and run:
 virtualizare.net+1geeksforgeeks.org+1
 
-git clone https://github.com/srushtiborhade/GrowMeetProject.git
+git clone https://github.com/Muskan-Varma/GrowMeet
 cd GrowMeetProject
 
 2. Install Dependencies
